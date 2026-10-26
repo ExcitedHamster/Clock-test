@@ -1,0 +1,3 @@
+﻿  clocking.cpp
+C:\Users\Eric\source\repos\clock test\clock test\clock test\clocking.cpp(161,32): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  clock test.vcxproj -> C:\Users\Eric\source\repos\clock test\clock test\x64\Debug\clock test.exe

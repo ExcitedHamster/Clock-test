@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="clock test/clock test.vcxproj" Id="a5848e98-ddcf-4afe-99d3-5fdbcd75cf69" />
+</Solution>
